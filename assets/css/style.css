@@ -1,0 +1,34 @@
+body{
+    padding: 10px;
+}.caja1{
+    background-color: aqua;
+    padding: 10px;
+}
+.caja2{
+    display: flex;
+    background-color: brown;
+    color: chartreuse;
+    gap: 30px;
+    padding: 30px;
+    margin: 30px;
+    list-style: none;
+    text-align:center;
+    justify-content: center;
+}
+.caja3{
+    background-color: black;
+    color: aliceblue;
+    width: 25%;
+    
+}
+.caja3:hover{
+background-color: chocolate;
+
+}
+.caja2 img{
+    max-width: 100%;
+}
+.icon{
+    font-size: 30px;
+    color: aquamarine;
+}
